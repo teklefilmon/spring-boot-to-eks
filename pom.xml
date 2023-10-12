@@ -45,6 +45,7 @@
     </dependencies>
 
     <build>
+        <finalName>spring-boot-to-eks.jar</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
